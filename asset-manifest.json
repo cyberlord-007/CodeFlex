@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CodeFlex/static/css/main.b2351552.chunk.css",
+    "main.js": "/CodeFlex/static/js/main.7540a4b0.chunk.js",
+    "main.js.map": "/CodeFlex/static/js/main.7540a4b0.chunk.js.map",
+    "runtime-main.js": "/CodeFlex/static/js/runtime-main.4b8148de.js",
+    "runtime-main.js.map": "/CodeFlex/static/js/runtime-main.4b8148de.js.map",
+    "static/js/2.41ab59f3.chunk.js": "/CodeFlex/static/js/2.41ab59f3.chunk.js",
+    "static/js/2.41ab59f3.chunk.js.map": "/CodeFlex/static/js/2.41ab59f3.chunk.js.map",
+    "index.html": "/CodeFlex/index.html",
+    "precache-manifest.b299103fd7bf6fc58fb1640d9d2438bc.js": "/CodeFlex/precache-manifest.b299103fd7bf6fc58fb1640d9d2438bc.js",
+    "service-worker.js": "/CodeFlex/service-worker.js",
+    "static/css/main.b2351552.chunk.css.map": "/CodeFlex/static/css/main.b2351552.chunk.css.map",
+    "static/js/2.41ab59f3.chunk.js.LICENSE.txt": "/CodeFlex/static/js/2.41ab59f3.chunk.js.LICENSE.txt",
+    "static/media/Card.scss": "/CodeFlex/static/media/bg.4946ccfd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b8148de.js",
+    "static/js/2.41ab59f3.chunk.js",
+    "static/css/main.b2351552.chunk.css",
+    "static/js/main.7540a4b0.chunk.js"
+  ]
+}
